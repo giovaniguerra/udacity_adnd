@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">         #FF3F51B5   </color>
+    <color name="colorPrimaryDark">     #FF303F9F   </color>
+    <color name="colorAccent">          #FFFF4081   </color>
+
+    <color name="primary_text_color">   #DD000000   </color>      <!-- 87% opacity -->
+    <color name="secondary_text_color"> #89000000   </color>      <!-- 54% opacity -->
+    <color name="hint_text_color">      #60000000   </color>      <!-- 38% opacity -->
+
+    <!-- Material Design Colors -->
+    <color name="md_grey_500">          #FF9E9E9E   </color>
+
 </resources>

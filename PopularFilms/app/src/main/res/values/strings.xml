@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">PopularFilms</string>
+    <string name="title_activity_film_detail">Film</string>
+
+    <!-- Menu Labels -->
+    <string name="sort_films_item">Sort films by</string>
+
+
+    <!-- Film Detail Activity -->
+    <string name="synopsis_label">Synopsis: </string>
+    <string name="ratings_label">Ratings: </string>
+    <string name="release_date_label">Release Date: </string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Settings Activity Preferences -->
+    <string name="pref_text_label_popular">Popular</string>
+    <string name="pref_text_label_top_rated">Top Rated</string>
+    <string name="pref_text_popular">popular</string>
+    <string name="pref_text_top_rated">top_rated</string>
+
+    <string name="pref_film_sort_key" translatable="false">sort_film</string>
+    <string name="pref_sort_film_label">Sort Films By:</string>
+
+
 </resources>
